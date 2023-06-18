@@ -25,7 +25,7 @@ TaskSniper is a lightweight application that allows you to manage and monitor ru
 
 ## Contributions
 
-Contributions to TaskSniper are welcome! If you encounter any issues, have feature requests, or would like to contribute to the project, please visit the [GitHub repository](https://github.com/your/repository) to submit an issue or create a pull request.
+Contributions to TaskSniper are welcome! If you encounter any issues, have feature requests, or would like to contribute to the project, please visit the [GitHub repository](https://github.com/HAMMER411/TaskSniper) to submit an issue or create a pull request.
 
 ## License
 
@@ -33,5 +33,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 ## Contact
 
-If you have any questions, feedback, or inquiries, please contact the development team at [email@example.com](mailto:email@example.com).
+If you have any questions, feedback, or inquiries, please contact the development team at wave.studiodevs@gmail.com or our discord sevrer.
 
