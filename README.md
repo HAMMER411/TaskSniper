@@ -29,7 +29,7 @@ Contributions to TaskSniper are welcome! If you encounter any issues, have featu
 
 ## Contact
 
-If you have any questions, feedback, or inquiries, please contact the development team at wave.studiodevs@gmail.com or our discord sevrer.
+If you have any questions, feedback, or inquiries, please contact the development team on our discord sevrer.
 
 Discord server link
 https://discord.gg/N7hS5MS2T4
